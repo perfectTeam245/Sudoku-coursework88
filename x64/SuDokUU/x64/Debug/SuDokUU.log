@@ -1,0 +1,12 @@
+﻿  sudo.c
+C:\Users\Vanya\Documents\Course_Work\SuDokUU\SuDokUU\sudo.c(1079,28): warning C4477: 'fscanf_s' : format string '%d' requires an argument of type 'int *', but variadic argument 1 has type 'CellColor *'
+C:\Users\Vanya\Documents\Course_Work\SuDokUU\SuDokUU\sudo.c(1110,1): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Vanya\Documents\Course_Work\SuDokUU\SuDokUU\sudo.c(1153,1): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Vanya\Documents\Course_Work\SuDokUU\SuDokUU\sudo.c(1188,1): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Vanya\Documents\Course_Work\SuDokUU\SuDokUU\sudo.c(1223,1): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Vanya\Documents\Course_Work\SuDokUU\SuDokUU\sudo.c(1234,1): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Vanya\Documents\Course_Work\SuDokUU\SuDokUU\sudo.c(2039,1): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\Vanya\Documents\Course_Work\SuDokUU\SuDokUU\sudo.c(2040,1): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\Vanya\Documents\Course_Work\SuDokUU\SuDokUU\sudo.c(2204,21): warning C4244: 'function': conversion from 'time_t' to 'unsigned int', possible loss of data
+LINK : warning LNK4098: defaultlib 'MSVCRT' conflicts with use of other libs; use /NODEFAULTLIB:library
+  SuDokUU.vcxproj -> C:\Users\Vanya\Documents\Course_Work\SuDokUU\x64\Debug\SuDokUU.exe
